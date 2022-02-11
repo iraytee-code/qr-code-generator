@@ -1,0 +1,25 @@
+body {
+  background: #ffffff;
+  /* color: #fff; */
+  display: flex;
+  align-items: center;
+  height: 100vh;
+}
+
+.container-wrapper {
+  width: 450px;
+  border-radius: 36px;
+  background: #e0e0e0;
+  margin: auto;
+  box-shadow: 3px 3px 8px #b1b1b1, -9px -9px 8px #ffffff;
+}
+
+.qr-result {
+  width: 100%;
+}
+
+#qrResult {
+  margin: auto;
+  height: 200px;
+  width: 200px;
+}
